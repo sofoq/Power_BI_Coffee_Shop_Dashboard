@@ -33,7 +33,7 @@ The dataset used in this project is based on the coffee shop sales data from Jan
 ### Details Dashboard  
 ![Details](https://github.com/sofoq/Coffee-Shop-Project/blob/main/DETAILS.png)  
 
-👨‍💻 **Author**  
+
 Sofo Qaadze 
 📧 [sqaadze2000@gmail.com](mailto:sqaadze2000@gmail.com)  
 🔗 [LinkedIn: Sofo Qaadze](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)
