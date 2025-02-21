@@ -28,10 +28,10 @@ The dataset used in this project is based on the coffee shop sales data from Jan
 ## 📸 Screenshots  
 
 ### Overview Dashboard  
-![Overview](https://github.com/sofoq/Coffe-Shop-Project/blob/main/OVERVIEW.png)  
+![Overview](https://github.com/sofoq/Coffee-Shop-Project/blob/main/OVERVIEW.png)  
 
 ### Details Dashboard  
-![Details](https://github.com/sofoq/Coffe-Shop-Project/blob/main/DETAILS.png)  
+![Details](https://github.com/sofoq/Coffee-Shop-Project/blob/main/DETAILS.png)  
 
 👨‍💻 **Author**  
 Sofo Qaadze  
