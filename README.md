@@ -3,6 +3,9 @@
 📌 **Project Overview**  
 This Power BI project analyzes the sales data for a coffee shop for the first half of 2023 (January to June). The main goal is to explore key metrics such as total sales, orders, quantities, and their trends over time. The report uses a date slicer to allow comparison of data across different months.
 
+## 🔗 Live Demo  
+Check out the dashboard here: [Coffee Shop Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTEzY2YzYjItNGY5Zi00YjIxLThlYTktNTIzZjk0ZWJjNjRlIiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D) 🚀  
+
 📊 **Key Dashboards**  
 The **OVERVIEW** sheet includes:
 - **Calendar View** – Displays the sales data by day with color-coded days based on sales performance. A tooltip reveals detailed KPI data for each day.
