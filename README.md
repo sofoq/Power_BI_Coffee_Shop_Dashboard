@@ -28,6 +28,7 @@ The **DETAILS** sheet provides in-depth sales data in a tabular format, allowing
 📝 **Dataset**  
 The dataset used in this project is based on the coffee shop sales data from January to June 2023.
 
+
 ## 📸 Screenshots  
 
 ### Overview Dashboard  
